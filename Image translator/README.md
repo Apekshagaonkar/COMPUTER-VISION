@@ -5,4 +5,4 @@ The accuracy is not great because we have used correlation, to improvise it we a
 of the letters and numbers.
 
 presentation:
-https://docs.google.com/presentation/d/1BjruaFrs_NJDnb2sKtG-96JXd5QnN7dKwGE3c9tDZVw/edit#slide=id.p1
+https://docs.google.com/presentation/d/1BjruaFrs_NJDnb2sKtG-96JXd5QnN7dKwGE3c9tDZVw/edit?usp=sharing
