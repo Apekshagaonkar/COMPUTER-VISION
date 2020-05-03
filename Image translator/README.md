@@ -1,7 +1,31 @@
 # Image translator
-The image with text in english script can be translated into any language by doing the required changes in url of google translator .
-Our code works for english to kannada translation 
-The accuracy is not great because we have used correlation, to improvise it we are working on implementing neural network for identification of the letters and numbers.
 
-presentation:
-https://docs.google.com/presentation/d/1BjruaFrs_NJDnb2sKtG-96JXd5QnN7dKwGE3c9tDZVw/edit?usp=sharing
+Image translation refers to a technology where we can translate the text on images.
+
+## PROBLEM STATEMENT: 
+
+Our Aim  is to To read text written in English from an Image and translating it into Kannada language.
+
+### Requirements
+
+MATLAB
+
+### Run
+
+In a terminal or command window, navigate to the top-level project directory `IMAGE TRANSLATOR/` (that contains this README) and run one of the [image_translator.m](https://github.com/Apekshagaonkar/COMPUTER-VISION/blob/master/Image%20translator/image_translator.m) file
+
+### Steps :
+1. Preprocessing the image
+2. Horizontal segmentation
+3. Vertical segmentation
+4. Template Matching
+5. Translation
+
+## CONCLUSION AND FURTHER ENHANCEMENTS :
+- This code works for fonts which is similar to the given template.
+- It can be further enhanced by using neural network instead of correlation where the handwritten dataset is provided and training, testing is performed on that dataset.
+- This can also be implemented using OCR inbuilt function of matlab.
+
+## REFERENCE :
+- https://circuitdigest.com/tutorial/vehicle-number-plate-detection-using-matlab-and-image-processing
+- https://ijireeice.com/wp-content/uploads/2013/03/IJIREEICE3G-a-ragini-RECOGNITION-OF-VEHICLE-NUMBER-PLATE-USING-MATLAB.pdf
