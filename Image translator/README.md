@@ -6,6 +6,10 @@ Image translation refers to a technology where we can translate the text on imag
 
 Our Aim  is to To read text written in English from an Image and translating it into Kannada language.
 
+### Presentation: 
+- [PPT](https://docs.google.com/presentation/d/1BjruaFrs_NJDnb2sKtG-96JXd5QnN7dKwGE3c9tDZVw/edit#slide=id.p4)
+- [Video](https://github.com/Apekshagaonkar/COMPUTER-VISION/blob/master/Image%20translator/2019-11-21%2023-45-51.flv)
+
 ### Requirements
 
 MATLAB
